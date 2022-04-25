@@ -14,7 +14,7 @@ from models import ResNet18
 from advertorch.attacks import L2PGDAttack
 
 learning_rate = 0.1
-file_name = 'basic_training_with_robust_dataset'
+file_name = 'basic_training_robust_dataset'
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
