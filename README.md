@@ -70,8 +70,8 @@ python3 basic_training_nonrobust_dataset.py
 
 ## Reference:
 [1] Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu. *Towards Deep Learning Models Resistant to Adversarial Attacks*, https://arxiv.org/abs/1706.06083 <br />
-[2] Alex Lamb, Vikas Verma, Kenji Kawaguchi, Savya Khosla, Juho Kannala, Yoshua Bengio. *Interpolated Adversarial Training: Achieving Robust Neural Networks without Sacrificing Too Much Accuracy* https://arxiv.org/abs/1906.06784<br />
-[3] Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry. *Adversarial Examples Are Not Bugs, They Are Features*. https://arxiv.org/abs/1905.02175<br />
+[2] Alex Lamb, Vikas Verma, Kenji Kawaguchi, Savya Khosla, Juho Kannala, Yoshua Bengio. *Interpolated Adversarial Training: Achieving Robust Neural Networks without Sacrificing Too Much Accuracy*, https://arxiv.org/abs/1906.06784<br />
+[3] Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry. *Adversarial Examples Are Not Bugs, They Are Features*, https://arxiv.org/abs/1905.02175<br />
 [4] Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. *Deep Residual Learning for Image Recognition*, Computer Vision and Pattern Recognition (CVPR), 2016 <br />
 [5] https://github.com/ndb796/Pytorch-Adversarial-Training-CIFAR <br />
 [6] https://github.com/BorealisAI/advertorch <br />
