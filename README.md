@@ -59,8 +59,8 @@ python3 basic_training_nonrobust_dataset.py
 </pre>
 ||Robust Dataset|Original paper (wide)|
 |------|---|---|
-|Benign accuracy|72.91%|84.10%|
-|Robust accuracy (L2 PGD 0.25)|31.83%|48.27%|
+|Benign accuracy|78.34%|84.10%|
+|Robust accuracy (L2 PGD 0.25)|34.87%|48.27%|
 
 ||Non-Robust Dataset|Original paper (wide)|
 |------|---|---|
